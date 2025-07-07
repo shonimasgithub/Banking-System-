@@ -1,4 +1,4 @@
-# datascience
+# 
 mini project: banking system
 Write a python program to replicate a Banking system. The following features are mandatory:
 1. Account login
